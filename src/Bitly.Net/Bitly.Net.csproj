@@ -23,6 +23,9 @@
 		<PackageTags>bitly short link</PackageTags>
 		<NeutralLanguage>ro</NeutralLanguage>
 		<Version>1.0.0</Version>
+		<Title>Bitly for .Net Core</Title>
+		<Description>Bitly .Net Core client with no dependencies</Description>
+		<PackageId>$(AssemblyName).Core</PackageId>
 	</PropertyGroup>
 
 	<ItemGroup>
